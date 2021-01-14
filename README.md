@@ -1,2 +1,2 @@
 # iOS14Mockup
-Created with CodeSandbox
+iOS 14 Mockup created in plane HTML and CSS
